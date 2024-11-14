@@ -1,6 +1,6 @@
 - title: geographies of data infrastructure
   center: [-100.254, 38.595]
-  zoom: 10
+  zoom: 3.45
   pitch: 0
   bearing: 0
   description: Welcome to the map scrollytelling app. You can set position, zoom, pitch, and bearing via the top-level props.
