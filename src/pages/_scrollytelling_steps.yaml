@@ -14,10 +14,10 @@
   
   layers:
   # id of layer
-  - id: 'squirrel-census'
+  - id: 'datacenter-points'
   # path to dataset 
   # note anything uploaded in the public/data folder will be uploaded to your site at url/data/file.png
-    url: './data/squirrel20241021.geojson'
+    url: '/Users/benedettavonpalombini/My Drive/semester_3 fall_2024/GIS for Design/ass04/v2counties_pop.geojson'
   # type of symbol
     type: 'circle'
   # type of symbol
