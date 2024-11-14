@@ -6,7 +6,7 @@
   description: Welcome to the map scrollytelling app. You can set position, zoom, pitch, and bearing via the top-level props.
 
 - title: Section Title - Squirrels in Central Park
-  center: [-73.96778, 40.78376]
+  center: [-100.254, 38.595]
   zoom: 14
   pitch: 0
   bearing: 20
@@ -31,7 +31,7 @@
 
 - title: Polygon Layer
   # center: [-73.96778, 40.78376]
-  center: [-74.00739, 40.67930]
+  center: [-100.254, 38.595]
   zoom: 14
   pitch: 0
   bearing: 20
